@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mattsies:Pijjas-ruccon-5gihco@mern.wewcg.mongodb.net/MERN?retryWrites=true&w=majority",
+    "jwtToken": "secretToken"
+}
